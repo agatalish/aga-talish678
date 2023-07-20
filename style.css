@@ -1,0 +1,39 @@
+td,tr{
+border: 2px solid black;
+padding: 25px;
+text-align: center;
+}
+
+table{
+    display: center;
+    border-collapse: collapse;
+border-radius: 10px;
+}
+.mydiv {
+  
+    animation: myanimation 10s infinite;
+  }
+  
+  @keyframes myanimation {
+    5% {background-color:sandybrown;}
+    25%{background-color:grey;}
+30%{background-color: fuchsia;}
+    75%{background-color:pink;}
+  }
+.go{
+border-radius: 10vh;
+margin:20px 400px;
+padding: 20px;
+color: white;
+background-color: black;
+}
+.k {
+  
+    animation: myanimation 10s infinite;
+  }
+  
+  @keyframes myanimation {
+    
+    75%{background-color:grey;}
+    30%{background-color: fuchsia;}
+  }
